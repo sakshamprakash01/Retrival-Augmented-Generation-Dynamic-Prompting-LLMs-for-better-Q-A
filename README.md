@@ -1,4 +1,4 @@
-# Multi-Document QA with GPT-3 and Neural Reranking
+# Multi-Document QA with LLMs (GPT-3.5/4) and Neural Reranking
 
 ## Overview
 This project implements a multi-document Question-Answering (QA) system that leverages document retrieval, question decomposition, and neural reranking to provide accurate answers with supporting explanations. The process is detailed in our proposed method, Visconde.
